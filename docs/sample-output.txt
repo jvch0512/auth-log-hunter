@@ -1,0 +1,10 @@
+CRITICAL brute-force            185.220.101.7    40 failures, 1 users, 2026-11-12 02:00:00Z to 2026-11-12 02:02:36Z
+           - 40 failed attempts within 10 minutes
+           - login ACCEPTED for 'root' via password after 40 failures from the same address
+           - successful login is for root
+MEDIUM   brute-force            103.41.12.9      25 failures, 1 users, 2026-11-12 02:15:00Z to 2026-11-12 02:18:12Z
+           - 25 failed attempts within 10 minutes
+MEDIUM   password-spraying      45.9.148.22      24 failures, 12 users, 2026-11-12 02:05:00Z to 2026-11-12 02:09:36Z
+           - 24 failed attempts within 10 minutes
+           - 12 distinct usernames tried
+           - 8 attempts for users that do not exist
